@@ -1,0 +1,8 @@
+{
+   "name": "meabed/web_rules",
+   "type": "magento-module",
+   "description": "Buy XX get the cheapest YY for free",
+   "require": {
+      "magento-hackathon/magento-composer-installer": "*"
+   }
+}
